@@ -1,0 +1,1 @@
+<a href="<?php echo e(route('welcome')); ?>" class="logo"><img src="./images/images (4).jpg" class="img-responsive" alt="" width="50px" height="50px"></a><?php /**PATH C:\laragon\www\maysarv3\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
